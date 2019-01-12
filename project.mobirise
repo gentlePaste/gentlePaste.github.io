@@ -58,7 +58,7 @@
     ],
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/titlelogo2-43x43.png",
     "noImageResize": "",
     "google-analytics": "",
     "siteUrl": "undefined",
